@@ -4,3 +4,5 @@ Une demo de git
 Test envoi vers GitHub
 
 Modification depuis GitHub
+
+Modification depuis machine locale
