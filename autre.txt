@@ -1,1 +1,29 @@
-ceci est un fichier de test txt
+Commande - git
+    
+	- git init = initialisation
+	- git add  = ajout fichier ou repertoire
+	- git status = verification de l'etat du versioning
+	- git commit -m 'description' = sauvegarde de la nouvelle version
+	- git log = visualiser les versions
+	- git checkout = se positioner sur une version, une branche (master , sha)
+	- git remote = sauvegarde/commit distant du code 
+	- git clone = recuperer du code depuis - github
+	- git push origin master = envoyer code vers - github
+	- git pull origin master = recuperer code depuis - github
+	- git branch = afficher, creer des branches 
+	- git merge = fusionner des branches
+	- git blame "nom du fichier" = indique le debut des sha par commit
+	- git show "debut du sha fourni par blame" = visualiser les modications pour un sha donné
+	- le fichier".- gitignore" = lister les fichiers ou repertoires a ignorer dans le versioning
+	- git stash = mettre de coté une version en cour de modification
+	- git stash pop = recuperer la version mise de coté
+	
+	
+	- fork = copier un repository sur github 
+	
+	
+	
+	
+	- touch = creer un fichier
+	- cat = afficher un fichier
+	
